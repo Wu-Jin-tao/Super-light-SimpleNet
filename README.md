@@ -1,4 +1,4 @@
-# SimpleNet
+# Super light SimpleNet
 This is an ultra-lightweight human posture estimation network that can be run on the mobile terminal (iOS + Android) in real time.
 The code and readme part are referenced in [1].
 
