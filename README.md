@@ -1,5 +1,5 @@
 # SimpleNet
-This is an ultra-lightweight human pose estimation network（## named SimpleNet) that can be run on the mobile terminal (iOS + Android) in real time.
+This is an ultra-lightweight human pose estimation network（**named SimpleNet**) that can be run on the mobile terminal (iOS + Android) in real time.
 The code and readme part are referenced in [1].
 
 ## Main Results
